@@ -4,7 +4,7 @@
     font-size: 16px;
     position:absolute;
     top:130px;
-    right:30%;
+    right:50%;
 }
 #score {
     background-color: #5c85ff;
@@ -24,7 +24,7 @@ body {
     border: none;
     position:absolute;
     top:155px;
-    left:80%;
+    left:60%;
     transform: translate(-50%,-50%);
     height:30px;
     width:100px;
