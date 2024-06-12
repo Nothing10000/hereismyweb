@@ -6,28 +6,20 @@
     top:130px;
     right:50%;
 }
-#score {
-    background-color: #5c85ff;
-    position:absolute;
-    bottom: 150px;
-    left: 0;
-    width: 100%;
-    padding: 5px 0;
-}
 body {
     font-family: Arial, sans-serif;
     text-align: center;
 }
 #BUTTON123{
     background-color: #8ba8fe;
-    border-radius: 10px;
+    border-radius: 15px;
     border: none;
     position:absolute;
     top:155px;
     left:60%;
     transform: translate(-50%,-50%);
     height:30px;
-    width:100px;
+    width:135px;
 }
 #BUTTON123:hover{
     background-color: #677dc1;
